@@ -5,3 +5,4 @@ line added from git local
 changes in git hub
 local changes done
 changes from github to check the fetch
+changes to check pull
